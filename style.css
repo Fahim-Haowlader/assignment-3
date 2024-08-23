@@ -10,3 +10,8 @@
     font-weight: weight;
     font-style: normal;
   }
+  .bg-form{
+    background-image: url(./assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
